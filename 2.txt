@@ -256,9 +256,7 @@ Han国高分动作片[137],https://epg.112114.xyz/huya/11352884
 【经典动漫】9455567,http://epg.112114.xyz/douyu/9455567
 铁头与橘子（每周更新一起看霸总）,http://epg.112114.xyz/douyu/9450942
 港台,#genre#
-凤凰资讯,http://113.117.74.74:8081/hls/36/index.m3u8
-凤凰资讯,http://113.117.74.78:8081/hls/36/index.m3u8
-凤凰资讯,http://113.117.74.87:8081/hls/36/index.m3u8
+凤凰资讯,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156407
 凤凰资讯,http://113.117.74.130:8081/hls/36/index.m3u8
 凤凰资讯,http://222.217.243.197:8181/tsfile/live/1015_1.m3u8
 凤凰资讯,http://udnhls.skilldns.com/fhzx.m3u8
@@ -266,6 +264,7 @@ Han国高分动作片[137],https://epg.112114.xyz/huya/11352884
 凤凰资讯,http://222.217.243.197:8181/tsfile/live/1015_1.m3u8
 凤凰资讯,http://113.117.74.50:8081/hls/36/index.m3u8
 凤凰资讯,http://113.117.74.139:8081/hls/36/index.m3u8
+凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Phoenix_Chinese
 凤凰中文,http://113.117.74.35:8081/hls/37/index.m3u8
 凤凰中文,http://113.117.74.99:8081/hls/37/index.m3u8
 凤凰中文,http://113.117.74.142:8081/hls/37/index.m3u8
@@ -296,9 +295,9 @@ Han国高分动作片[137],https://epg.112114.xyz/huya/11352884
 台湾-民视,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1050
 台湾-民视,https://s2.pub/cctv-19
 台湾-民视,https://s2.pub/cctv-19
+台湾-中天新闻,https://s2.pub/cctv-17
 台湾-东森,https://s2.pub/cctv-17
-台湾-东森,https://s2.pub/cctv-17
-台湾-中天,https://s2.pub/cctv-18
+台湾-台视新闻,https://s2.pub/cctv-18
 台湾-中天,https://s2.pub/cctv-18
 台湾-华视,https://s2.pub/cctv-22
 台湾-华视,https://s2.pub/cctv-22
