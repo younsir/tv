@@ -234,6 +234,9 @@ Han国高分动作片[137],https://epg.112114.xyz/huya/11352884
 连续剧4,http://epg.112114.xyz/douyu/7476264
 港澳,#genre#
 凤凰资讯,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
+凤凰中文,https://i.smart-chat.net/iptv.php?id=500100&num=1
+凤凰中文,https://i.smart-chat.net/iptv.php?id=500100&num=2
+凤凰中文,https://i.smart-chat.net/iptv.php?id=500100&num=3
 凤凰中文,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
 凤凰香港,mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
